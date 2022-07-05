@@ -1,8 +1,11 @@
 # sprintjava
 Integrantes:
 Amanda Díaz -> https://github.com/Amyyinthesky/sprintjava
-Nicolay López -> 
+
+Nicolay López -> https://github.com/Liocan123/SprintJava.git
+
 Mauricio Seguel -> https://github.com/IronWesso/SprintJava
+
 Constanza Vivar -> https://github.com/Constanzavm/sprint-de-java
 
 El programa de SprintJava es una solución técnológica que cubre los proceos de mejora de gestión, control, seguridad y disponibilidad de información para una empresa de asesorías en Prevención de Riesgos Laborales. Gracias a este código, se pueden administrar los provesos que se deben ejecutar en cada una de las empresas que son clientes de la compañía.
