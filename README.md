@@ -9,13 +9,21 @@ El programa de SprintJava es una solución técnológica que cubre los proceos d
 Dentro del código existen 9 funciones:
 
   1-Almacenar cliente
+  
   2-Almacenar profesional
+  
   3-Almacenar administrativo
+  
   4-Almacenar capacitación
+  
   5-Eliminar usuario
+  
   6-Listar usuarios
+  
   7-Listar usuarios por tipo
+  
   8-Listar capacitaciones
+  
   9-Salir
  
 En cada una de estas opciones, se genera una base de datos que permite administrar la información que se genera con las actividades que se realizan y el recurso humano de la compañia. 
